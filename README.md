@@ -2,7 +2,11 @@
 This is one of my first personal project with regards to studying machine learning methods. However, as it wasn't very well documented at the time due to limited knowledge, I am essentially coming back to clean it up a little, fill in some of the gaps, and document my learnings and results properly. I am pretty proud of this project at the time and to be honest even now, so I hope you enjoy this little thing I worked on. 
 
 # About the dataset
-The dataset used for this project was obtained from multiple different sources (which is generally bad practice I know, but I wanted more data to work with at the time.). The datasets were split before hand, rather than within the main notebook, into three different folders: mug_test_orig, mug_train_orig, and non_mug_train_orig. (orig here standing for original, non_mug_test doesnt't exist because non_mug_train was a much larger dataset than mug_train, hence the latter of non_mug_train was used as the non_mug_test set) 
+The dataset used for this project was obtained from multiple different sources (which is generally bad practice I know, but I wanted more data to work with at the time.). The datasets were split before hand, rather than within the main notebook, into three different folders: mug_test_orig, mug_train_orig, and non_mug_train_orig. (orig here standing for original, non_mug_test doesnt't exist because non_mug_train was a much larger dataset than mug_train, hence the latter of non_mug_train was used as the non_mug_test set). More information about the dataset can be found below:
+- [link 1](https://www.kaggle.com/datasets/malikusman1221/cup-mug-dataset)
+- [link 2](https://images.cv/dataset/mug-image-classification-dataset)
+- [link 3](https://www.kaggle.com/datasets/ezzzio/random-images)
+
 
 # About the files
 There are multiple files included in this repository besides the folders containing the testing/training data. Including:
